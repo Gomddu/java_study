@@ -1,4 +1,4 @@
-package com.gomddu.ch2;
+package com.gomddu.ch02;
 
 public class CastingEx2 {
     public static void main(String[] args) {
